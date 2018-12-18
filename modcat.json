@@ -18,12 +18,8 @@
         "description": "supported product versions",
         "value": [
             {
-                "operating_system": "windows",
-                "versions": ["5.50", "5.49", "5.48"]
-            },
-            {
                 "operating_system": "RedHat",
-                "versions": ["5.50", "5.49", "5.48"]
+                "versions": ["6.0.0", "5.3.7", "5.3.8"]
             }
         ]
     },
@@ -36,5 +32,10 @@
         "name": "is_deprecated",
         "description": "Denoted whether the module can be used for new deployments",
         "value": false
+    },
+    {
+        "name": "note",
+        "description": "Additional information",
+        "value": "This software does NOT support Windows"
     }
 ]
