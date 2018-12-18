@@ -7,6 +7,7 @@
   "source": "https://github.com/puppetlabs/puppetlabs-passenger",
   "project_page": "https://github.com/puppetlabs/puppetlabs-passenger",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
+  "tags": [ "ruby", "appserver", "apache" ],
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
